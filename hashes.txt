@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios ardientes
+
+This log tracks the cryptographic history and versioning for the song **Labios ardientes** (labios-ardientes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T15:11:04.124206 | `v1` | `11cfb873dd820fe4d75fa31e05b377b4f91aa23b0144c702e427502654c951e4` | `3014d929fc68ae301020582ce7084b50c50eff1399f3c855c3fd483bc88fa371` | `2026-06-16_labios-ardientes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
