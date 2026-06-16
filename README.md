@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, la noche entera te estoy mirando
+> Siento el calor que tú me estás dejando
+> Tus labios ardientes me tienen volando
+> En este club oscuro nos vamos quemando
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
